@@ -1,0 +1,48 @@
+\documentclass[10 pm]{article}
+\usepackage{graphicx}
+\usepackage[margin=0.5in]{geometry}
+\usepackage{listings}
+\usepackage[utf8]{inputenc}
+\lstset{
+basicstyle=\small\ttfamily,
+columns=flexible,
+breaklines=true
+}
+\usepackage{hyperref}
+
+\title  {CSD4301 Section 1 - Assignment 3 - The PIM DB Use Cases and UML Agile Design Document }
+\begin{document}
+\maketitle
+
+\section * {Team Name}
+Team Members Names, Student IDS
+
+\section * {Use Cases:}
+
+\section * {Use Case 1: Creating a New Project and Defining The Statement of Work}
+\subsection {GOAL}
+To Enable the Project Manager using my Software Application to 
+create a Statement of Work for their Project
+\subsection {Actors}
+The Project Managers and Coordinators who will document the project
+\subsection {Scenario}
+
+\begin{enumerate}
+\item Step 1. Complete As Necessary
+\end{enumerate}
+
+\section * {Use Case 1: Creating a New Project and Defining The Statement of Work}
+\subsection {GOAL}
+To Enable the Project Manager using my Software Application to 
+create a Statement of Work for their Project
+\subsection {Actors}
+The Project Managers and Coordinators who will document the project
+\subsection {Scenario}
+
+\begin{enumerate}
+\item Copy and Paste Use Case template and customize for each Use Case
+\end{enumerate}
+
+\end{document}
+
+
